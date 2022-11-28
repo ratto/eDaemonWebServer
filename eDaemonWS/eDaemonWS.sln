@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eDaemonWS", "eDaemonWS.csproj", "{166DB714-DA44-4617-86F2-E334221C043B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eDaemonWSTests", "..\eDaemonWSTests\eDaemonWSTests.csproj", "{6A719F47-99A4-4944-9C6B-6E52C32F9814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166DB714-DA44-4617-86F2-E334221C043B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166DB714-DA44-4617-86F2-E334221C043B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166DB714-DA44-4617-86F2-E334221C043B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166DB714-DA44-4617-86F2-E334221C043B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A719F47-99A4-4944-9C6B-6E52C32F9814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A719F47-99A4-4944-9C6B-6E52C32F9814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A719F47-99A4-4944-9C6B-6E52C32F9814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A719F47-99A4-4944-9C6B-6E52C32F9814}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FF4E8EB-FFD1-47C1-89CD-716CAC039B62}
+	EndGlobalSection
+EndGlobal
